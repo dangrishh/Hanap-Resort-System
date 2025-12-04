@@ -22,21 +22,14 @@ This platform enables guests to browse available rooms, make reservations, and m
 # 🛠 Tech Stack
 
 Frontend:
-
 EJS (Embedded JavaScript Templates)
-
 CSS / SCSS
-
 Tailwind CSS
-
 JavaScript
 
 Backend:
-
 Node.js
-
 Express.js
-
 Database
 
 SQL:
